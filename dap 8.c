@@ -1,6 +1,6 @@
 
 /*
- Program (7)-> Write a C program to swap two numbers using a temporary variable.
+ Program (8)-> Write a C program to swap two numbers using a temporary variable.
  Solution(2)-> User Define Values
  */
 
